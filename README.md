@@ -1,2 +1,2 @@
-# Kinesys-Chat-Application
+# Nephael-Chat-Application
 Rust Chat App
