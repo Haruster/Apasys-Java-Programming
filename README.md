@@ -1,2 +1,1 @@
-# Nephael-Chat-Application
-Rust Chat App
+# Nephael-Java-Programming
